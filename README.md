@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou o José Guilherme  
 
-<!--
-**guilhermelf28/guilhermelf28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (1º período)  
+💻 Aprendendo **JavaScript, HTML e CSS**  
+🚀 Em busca de **estágio em programação**  
+📍 Aracruz - ES
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+🔗 [LinkedIn] (https://www.linkedin.com/in/josé-guilherme-laporti-felippe-668335186/)
+✉️ **guilhermelaporti7@gmail.com**  
+
+---
+
+⭐ Sempre aprendendo, praticando e buscando melhorar a cada dia!
